@@ -2,7 +2,7 @@
 
 ---
 
-<p>Basic CSS, HTML and JavaScript to Spotify page.</p>
+<p>Basic CSS, HTML and JavaScript.</p>
 
 #### installation requirements: 
 
