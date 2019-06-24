@@ -1,5 +1,7 @@
 # FrontEnd - Basic JS file to  a vacation planning
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/2b00d280056a818227e5/maintainability)](https://codeclimate.com/github/rodrigogoncalves123/vacation-planner/maintainability)
+
 ---
 
 <p>Basic CSS, HTML and JavaScript.</p>
